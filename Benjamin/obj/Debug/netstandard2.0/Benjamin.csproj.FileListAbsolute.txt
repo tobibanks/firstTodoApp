@@ -1,0 +1,13 @@
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\bin\Debug\netstandard2.0\Benjamin.deps.json
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\bin\Debug\netstandard2.0\Benjamin.dll
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\bin\Debug\netstandard2.0\Benjamin.pdb
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.csprojAssemblyReference.cache
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Views\NextStop.xaml.g.cs
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.AssemblyInfoInputs.cache
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.AssemblyInfo.cs
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.csproj.CoreCompileInputs.cache
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.dll
+C:\Users\sodogwu\source\repos\Benjamin\Benjamin\obj\Debug\netstandard2.0\Benjamin.pdb
